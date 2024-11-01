@@ -1,0 +1,10 @@
+.form-table th {width: 423px;}
+td .wp-editor-wrap {width: 700px;}
+tr.toHide {display: none;}
+.welcome-message {width: 100%; text-align: center; z-index: 99999;}
+.top, .bottom {position: fixed;}
+.top {top: 0;}
+.bottom {bottom: 0;}
+.welcome-mobile.update-nag {width: 100%; box-sizing: border-box;}
+.welcome-mobile.update-nag ul {list-style: disc; padding-left: 19px;}
+#custom_css {resize: none; padding: 2%; box-sizing: border-box; display: block;color: #333; font-family: "Noto Serif",serif; font-weight: 400; font-size: 17px; line-height: 1.6471;}
